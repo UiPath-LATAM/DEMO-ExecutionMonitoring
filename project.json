@@ -5,7 +5,7 @@
   "dependencies": {
     "UiPath.MicrosoftOffice365.Activities": "[2.1.1]",
     "UiPath.System.Activities": "[23.4.2]",
-    "UiPath.UIAutomation.Activities": "[23.4.4]",
+    "UiPath.UIAutomation.Activities": "[23.4.5]",
     "UiPathTeam.StatusProgress.Activities": "[1.0.3]"
   },
   "webServices": [],
@@ -54,7 +54,7 @@
     },
     {
       "filePath": "ProcessExecution.xaml",
-      "uniqueId": "52c225dd-22b4-4790-b82a-7d2b1a0525af",
+      "uniqueId": "4e5636d7-dfaf-4a14-814a-4b12b4a9f47f",
       "input": [],
       "output": []
     }
